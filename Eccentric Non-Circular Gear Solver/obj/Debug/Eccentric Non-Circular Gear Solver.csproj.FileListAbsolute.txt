@@ -1,0 +1,8 @@
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\bin\Debug\Eccentric Non-Circular Gear Solver.exe.config
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\bin\Debug\Eccentric Non-Circular Gear Solver.exe
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\bin\Debug\Eccentric Non-Circular Gear Solver.pdb
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\obj\Debug\Eccentric Non-Circular Gear Solver.csproj.AssemblyReference.cache
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\obj\Debug\Eccentric Non-Circular Gear Solver.csproj.SuggestedBindingRedirects.cache
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\obj\Debug\Eccentric Non-Circular Gear Solver.csproj.CoreCompileInputs.cache
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\obj\Debug\Eccentric Non-Circular Gear Solver.exe
+C:\Users\jvoss\source\repos\Eccentric Non-Circular Gear Solver\Eccentric Non-Circular Gear Solver\obj\Debug\Eccentric Non-Circular Gear Solver.pdb
